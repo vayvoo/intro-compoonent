@@ -13,6 +13,7 @@ a{
 .wrapper{
     display: flex;
     align-items: center;
+    justify-content: center;
     padding: 100px 60px 60px 70px;
 }
 .left-side{
